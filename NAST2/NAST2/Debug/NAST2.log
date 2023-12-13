@@ -1,0 +1,3 @@
+﻿  NAST2.cpp
+C:\Users\влад\source\repos\NAST2\NAST2\NAST2.cpp(15): warning C4715: operator<=: значение возвращается не при всех путях выполнения
+  NAST2.vcxproj -> C:\Users\влад\source\repos\NAST2\Debug\NAST2.exe
