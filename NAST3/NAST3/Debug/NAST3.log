@@ -1,0 +1,8 @@
+﻿  Comp.cpp
+  List.cpp
+  NAST3.cpp
+  Создание кода...
+C:\Users\влад\source\repos\NAST3\NAST3\NAST3.cpp(16): warning C4715: operator<=: значение возвращается не при всех путях выполнения
+C:\Users\влад\source\repos\NAST3\NAST3\Comp.cpp(94): warning C4715: Derived3::operator<=: значение возвращается не при всех путях выполнения
+C:\Users\влад\source\repos\NAST3\NAST3\Comp.cpp(85): warning C4715: Derived3::operator<=: значение возвращается не при всех путях выполнения
+  NAST3.vcxproj -> C:\Users\влад\source\repos\NAST4\Debug\NAST3.exe
